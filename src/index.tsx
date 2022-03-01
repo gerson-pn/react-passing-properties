@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App texto='Data e hora de agora' />
   </React.StrictMode>,
   document.getElementById('root')
 );
